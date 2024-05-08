@@ -1,0 +1,14 @@
+C:\anhthai\C#\OOP-2\obj\Debug\net8.0\OOP-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\OOP-2\obj\Debug\net8.0\OOP-2.AssemblyInfoInputs.cache
+C:\anhthai\C#\OOP-2\obj\Debug\net8.0\OOP-2.AssemblyInfo.cs
+C:\anhthai\C#\OOP-2\obj\Debug\net8.0\OOP-2.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\OOP-2\bin\Debug\net8.0\OOP-2.exe
+C:\anhthai\C#\OOP-2\bin\Debug\net8.0\OOP-2.deps.json
+C:\anhthai\C#\OOP-2\bin\Debug\net8.0\OOP-2.runtimeconfig.json
+C:\anhthai\C#\OOP-2\bin\Debug\net8.0\OOP-2.dll
+C:\anhthai\C#\OOP-2\bin\Debug\net8.0\OOP-2.pdb
+C:\anhthai\C#\OOP-2\obj\Debug\net8.0\OOP-2.dll
+C:\anhthai\C#\OOP-2\obj\Debug\net8.0\refint\OOP-2.dll
+C:\anhthai\C#\OOP-2\obj\Debug\net8.0\OOP-2.pdb
+C:\anhthai\C#\OOP-2\obj\Debug\net8.0\OOP-2.genruntimeconfig.cache
+C:\anhthai\C#\OOP-2\obj\Debug\net8.0\ref\OOP-2.dll

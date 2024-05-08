@@ -1,0 +1,14 @@
+C:\anhthai\C#\loop\bin\Debug\net8.0\loop.exe
+C:\anhthai\C#\loop\bin\Debug\net8.0\loop.deps.json
+C:\anhthai\C#\loop\bin\Debug\net8.0\loop.runtimeconfig.json
+C:\anhthai\C#\loop\bin\Debug\net8.0\loop.dll
+C:\anhthai\C#\loop\bin\Debug\net8.0\loop.pdb
+C:\anhthai\C#\loop\obj\Debug\net8.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\loop\obj\Debug\net8.0\loop.AssemblyInfoInputs.cache
+C:\anhthai\C#\loop\obj\Debug\net8.0\loop.AssemblyInfo.cs
+C:\anhthai\C#\loop\obj\Debug\net8.0\loop.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\loop\obj\Debug\net8.0\loop.dll
+C:\anhthai\C#\loop\obj\Debug\net8.0\refint\loop.dll
+C:\anhthai\C#\loop\obj\Debug\net8.0\loop.pdb
+C:\anhthai\C#\loop\obj\Debug\net8.0\loop.genruntimeconfig.cache
+C:\anhthai\C#\loop\obj\Debug\net8.0\ref\loop.dll

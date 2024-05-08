@@ -1,0 +1,14 @@
+C:\anhthai\C#\luutrucode\bin\Debug\net8.0\luutrucode.exe
+C:\anhthai\C#\luutrucode\bin\Debug\net8.0\luutrucode.deps.json
+C:\anhthai\C#\luutrucode\bin\Debug\net8.0\luutrucode.runtimeconfig.json
+C:\anhthai\C#\luutrucode\bin\Debug\net8.0\luutrucode.dll
+C:\anhthai\C#\luutrucode\bin\Debug\net8.0\luutrucode.pdb
+C:\anhthai\C#\luutrucode\obj\Debug\net8.0\luutrucode.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\luutrucode\obj\Debug\net8.0\luutrucode.AssemblyInfoInputs.cache
+C:\anhthai\C#\luutrucode\obj\Debug\net8.0\luutrucode.AssemblyInfo.cs
+C:\anhthai\C#\luutrucode\obj\Debug\net8.0\luutrucode.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\luutrucode\obj\Debug\net8.0\luutrucode.dll
+C:\anhthai\C#\luutrucode\obj\Debug\net8.0\refint\luutrucode.dll
+C:\anhthai\C#\luutrucode\obj\Debug\net8.0\luutrucode.pdb
+C:\anhthai\C#\luutrucode\obj\Debug\net8.0\luutrucode.genruntimeconfig.cache
+C:\anhthai\C#\luutrucode\obj\Debug\net8.0\ref\luutrucode.dll

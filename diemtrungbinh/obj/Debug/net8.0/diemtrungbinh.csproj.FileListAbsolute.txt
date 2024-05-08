@@ -1,0 +1,14 @@
+C:\anhthai\C#\diemtrungbinh\bin\Debug\net8.0\diemtrungbinh.exe
+C:\anhthai\C#\diemtrungbinh\bin\Debug\net8.0\diemtrungbinh.deps.json
+C:\anhthai\C#\diemtrungbinh\bin\Debug\net8.0\diemtrungbinh.runtimeconfig.json
+C:\anhthai\C#\diemtrungbinh\bin\Debug\net8.0\diemtrungbinh.dll
+C:\anhthai\C#\diemtrungbinh\bin\Debug\net8.0\diemtrungbinh.pdb
+C:\anhthai\C#\diemtrungbinh\obj\Debug\net8.0\diemtrungbinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\diemtrungbinh\obj\Debug\net8.0\diemtrungbinh.AssemblyInfoInputs.cache
+C:\anhthai\C#\diemtrungbinh\obj\Debug\net8.0\diemtrungbinh.AssemblyInfo.cs
+C:\anhthai\C#\diemtrungbinh\obj\Debug\net8.0\diemtrungbinh.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\diemtrungbinh\obj\Debug\net8.0\diemtrungbinh.dll
+C:\anhthai\C#\diemtrungbinh\obj\Debug\net8.0\refint\diemtrungbinh.dll
+C:\anhthai\C#\diemtrungbinh\obj\Debug\net8.0\diemtrungbinh.pdb
+C:\anhthai\C#\diemtrungbinh\obj\Debug\net8.0\diemtrungbinh.genruntimeconfig.cache
+C:\anhthai\C#\diemtrungbinh\obj\Debug\net8.0\ref\diemtrungbinh.dll

@@ -1,0 +1,14 @@
+C:\anhthai\C#\lap\obj\Debug\net8.0\lap.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\lap\obj\Debug\net8.0\lap.AssemblyInfoInputs.cache
+C:\anhthai\C#\lap\obj\Debug\net8.0\lap.AssemblyInfo.cs
+C:\anhthai\C#\lap\obj\Debug\net8.0\lap.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\lap\bin\Debug\net8.0\lap.exe
+C:\anhthai\C#\lap\bin\Debug\net8.0\lap.deps.json
+C:\anhthai\C#\lap\bin\Debug\net8.0\lap.runtimeconfig.json
+C:\anhthai\C#\lap\bin\Debug\net8.0\lap.dll
+C:\anhthai\C#\lap\bin\Debug\net8.0\lap.pdb
+C:\anhthai\C#\lap\obj\Debug\net8.0\lap.dll
+C:\anhthai\C#\lap\obj\Debug\net8.0\refint\lap.dll
+C:\anhthai\C#\lap\obj\Debug\net8.0\lap.pdb
+C:\anhthai\C#\lap\obj\Debug\net8.0\lap.genruntimeconfig.cache
+C:\anhthai\C#\lap\obj\Debug\net8.0\ref\lap.dll

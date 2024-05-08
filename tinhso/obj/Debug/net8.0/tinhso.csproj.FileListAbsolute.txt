@@ -1,0 +1,14 @@
+C:\anhthai\C#\tinhso\bin\Debug\net8.0\tinhso.exe
+C:\anhthai\C#\tinhso\bin\Debug\net8.0\tinhso.deps.json
+C:\anhthai\C#\tinhso\bin\Debug\net8.0\tinhso.runtimeconfig.json
+C:\anhthai\C#\tinhso\bin\Debug\net8.0\tinhso.dll
+C:\anhthai\C#\tinhso\bin\Debug\net8.0\tinhso.pdb
+C:\anhthai\C#\tinhso\obj\Debug\net8.0\tinhso.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\tinhso\obj\Debug\net8.0\tinhso.AssemblyInfoInputs.cache
+C:\anhthai\C#\tinhso\obj\Debug\net8.0\tinhso.AssemblyInfo.cs
+C:\anhthai\C#\tinhso\obj\Debug\net8.0\tinhso.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\tinhso\obj\Debug\net8.0\tinhso.dll
+C:\anhthai\C#\tinhso\obj\Debug\net8.0\refint\tinhso.dll
+C:\anhthai\C#\tinhso\obj\Debug\net8.0\tinhso.pdb
+C:\anhthai\C#\tinhso\obj\Debug\net8.0\tinhso.genruntimeconfig.cache
+C:\anhthai\C#\tinhso\obj\Debug\net8.0\ref\tinhso.dll

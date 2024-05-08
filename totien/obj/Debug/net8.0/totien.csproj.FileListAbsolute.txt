@@ -1,0 +1,14 @@
+C:\anhthai\C#\totien\bin\Debug\net8.0\totien.exe
+C:\anhthai\C#\totien\bin\Debug\net8.0\totien.deps.json
+C:\anhthai\C#\totien\bin\Debug\net8.0\totien.runtimeconfig.json
+C:\anhthai\C#\totien\bin\Debug\net8.0\totien.dll
+C:\anhthai\C#\totien\bin\Debug\net8.0\totien.pdb
+C:\anhthai\C#\totien\obj\Debug\net8.0\totien.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\totien\obj\Debug\net8.0\totien.AssemblyInfoInputs.cache
+C:\anhthai\C#\totien\obj\Debug\net8.0\totien.AssemblyInfo.cs
+C:\anhthai\C#\totien\obj\Debug\net8.0\totien.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\totien\obj\Debug\net8.0\totien.dll
+C:\anhthai\C#\totien\obj\Debug\net8.0\refint\totien.dll
+C:\anhthai\C#\totien\obj\Debug\net8.0\totien.pdb
+C:\anhthai\C#\totien\obj\Debug\net8.0\totien.genruntimeconfig.cache
+C:\anhthai\C#\totien\obj\Debug\net8.0\ref\totien.dll

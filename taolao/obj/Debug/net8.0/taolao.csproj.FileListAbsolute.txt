@@ -1,0 +1,14 @@
+C:\anhthai\C#\taolao\bin\Debug\net8.0\taolao.exe
+C:\anhthai\C#\taolao\bin\Debug\net8.0\taolao.deps.json
+C:\anhthai\C#\taolao\bin\Debug\net8.0\taolao.runtimeconfig.json
+C:\anhthai\C#\taolao\bin\Debug\net8.0\taolao.dll
+C:\anhthai\C#\taolao\bin\Debug\net8.0\taolao.pdb
+C:\anhthai\C#\taolao\obj\Debug\net8.0\taolao.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\taolao\obj\Debug\net8.0\taolao.AssemblyInfoInputs.cache
+C:\anhthai\C#\taolao\obj\Debug\net8.0\taolao.AssemblyInfo.cs
+C:\anhthai\C#\taolao\obj\Debug\net8.0\taolao.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\taolao\obj\Debug\net8.0\taolao.dll
+C:\anhthai\C#\taolao\obj\Debug\net8.0\refint\taolao.dll
+C:\anhthai\C#\taolao\obj\Debug\net8.0\taolao.pdb
+C:\anhthai\C#\taolao\obj\Debug\net8.0\taolao.genruntimeconfig.cache
+C:\anhthai\C#\taolao\obj\Debug\net8.0\ref\taolao.dll

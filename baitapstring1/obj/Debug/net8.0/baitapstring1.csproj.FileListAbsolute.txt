@@ -1,0 +1,14 @@
+C:\anhthai\C#\baitapstring1\bin\Debug\net8.0\baitapstring1.exe
+C:\anhthai\C#\baitapstring1\bin\Debug\net8.0\baitapstring1.deps.json
+C:\anhthai\C#\baitapstring1\bin\Debug\net8.0\baitapstring1.runtimeconfig.json
+C:\anhthai\C#\baitapstring1\bin\Debug\net8.0\baitapstring1.dll
+C:\anhthai\C#\baitapstring1\bin\Debug\net8.0\baitapstring1.pdb
+C:\anhthai\C#\baitapstring1\obj\Debug\net8.0\baitapstring1.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\baitapstring1\obj\Debug\net8.0\baitapstring1.AssemblyInfoInputs.cache
+C:\anhthai\C#\baitapstring1\obj\Debug\net8.0\baitapstring1.AssemblyInfo.cs
+C:\anhthai\C#\baitapstring1\obj\Debug\net8.0\baitapstring1.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\baitapstring1\obj\Debug\net8.0\baitapstring1.dll
+C:\anhthai\C#\baitapstring1\obj\Debug\net8.0\refint\baitapstring1.dll
+C:\anhthai\C#\baitapstring1\obj\Debug\net8.0\baitapstring1.pdb
+C:\anhthai\C#\baitapstring1\obj\Debug\net8.0\baitapstring1.genruntimeconfig.cache
+C:\anhthai\C#\baitapstring1\obj\Debug\net8.0\ref\baitapstring1.dll

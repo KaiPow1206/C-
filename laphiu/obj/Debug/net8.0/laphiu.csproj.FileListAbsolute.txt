@@ -1,0 +1,14 @@
+C:\anhthai\C#\laphiu\obj\Debug\net8.0\laphiu.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\laphiu\obj\Debug\net8.0\laphiu.AssemblyInfoInputs.cache
+C:\anhthai\C#\laphiu\obj\Debug\net8.0\laphiu.AssemblyInfo.cs
+C:\anhthai\C#\laphiu\obj\Debug\net8.0\laphiu.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\laphiu\bin\Debug\net8.0\laphiu.exe
+C:\anhthai\C#\laphiu\bin\Debug\net8.0\laphiu.deps.json
+C:\anhthai\C#\laphiu\bin\Debug\net8.0\laphiu.runtimeconfig.json
+C:\anhthai\C#\laphiu\bin\Debug\net8.0\laphiu.dll
+C:\anhthai\C#\laphiu\bin\Debug\net8.0\laphiu.pdb
+C:\anhthai\C#\laphiu\obj\Debug\net8.0\laphiu.dll
+C:\anhthai\C#\laphiu\obj\Debug\net8.0\refint\laphiu.dll
+C:\anhthai\C#\laphiu\obj\Debug\net8.0\laphiu.pdb
+C:\anhthai\C#\laphiu\obj\Debug\net8.0\laphiu.genruntimeconfig.cache
+C:\anhthai\C#\laphiu\obj\Debug\net8.0\ref\laphiu.dll

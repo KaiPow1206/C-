@@ -1,0 +1,14 @@
+C:\anhthai\C#\vonglap\bin\Debug\net8.0\vonglap.exe
+C:\anhthai\C#\vonglap\bin\Debug\net8.0\vonglap.deps.json
+C:\anhthai\C#\vonglap\bin\Debug\net8.0\vonglap.runtimeconfig.json
+C:\anhthai\C#\vonglap\bin\Debug\net8.0\vonglap.dll
+C:\anhthai\C#\vonglap\bin\Debug\net8.0\vonglap.pdb
+C:\anhthai\C#\vonglap\obj\Debug\net8.0\vonglap.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\vonglap\obj\Debug\net8.0\vonglap.AssemblyInfoInputs.cache
+C:\anhthai\C#\vonglap\obj\Debug\net8.0\vonglap.AssemblyInfo.cs
+C:\anhthai\C#\vonglap\obj\Debug\net8.0\vonglap.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\vonglap\obj\Debug\net8.0\vonglap.dll
+C:\anhthai\C#\vonglap\obj\Debug\net8.0\refint\vonglap.dll
+C:\anhthai\C#\vonglap\obj\Debug\net8.0\vonglap.pdb
+C:\anhthai\C#\vonglap\obj\Debug\net8.0\vonglap.genruntimeconfig.cache
+C:\anhthai\C#\vonglap\obj\Debug\net8.0\ref\vonglap.dll

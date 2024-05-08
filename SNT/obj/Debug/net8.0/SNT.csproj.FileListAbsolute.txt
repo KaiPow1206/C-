@@ -1,0 +1,14 @@
+C:\anhthai\C#\SNT\obj\Debug\net8.0\SNT.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\SNT\obj\Debug\net8.0\SNT.AssemblyInfoInputs.cache
+C:\anhthai\C#\SNT\obj\Debug\net8.0\SNT.AssemblyInfo.cs
+C:\anhthai\C#\SNT\obj\Debug\net8.0\SNT.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\SNT\bin\Debug\net8.0\SNT.exe
+C:\anhthai\C#\SNT\bin\Debug\net8.0\SNT.deps.json
+C:\anhthai\C#\SNT\bin\Debug\net8.0\SNT.runtimeconfig.json
+C:\anhthai\C#\SNT\bin\Debug\net8.0\SNT.dll
+C:\anhthai\C#\SNT\bin\Debug\net8.0\SNT.pdb
+C:\anhthai\C#\SNT\obj\Debug\net8.0\SNT.dll
+C:\anhthai\C#\SNT\obj\Debug\net8.0\refint\SNT.dll
+C:\anhthai\C#\SNT\obj\Debug\net8.0\SNT.pdb
+C:\anhthai\C#\SNT\obj\Debug\net8.0\SNT.genruntimeconfig.cache
+C:\anhthai\C#\SNT\obj\Debug\net8.0\ref\SNT.dll

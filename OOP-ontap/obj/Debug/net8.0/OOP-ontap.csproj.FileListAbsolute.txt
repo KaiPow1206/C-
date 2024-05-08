@@ -1,0 +1,14 @@
+C:\anhthai\C#\OOP-ontap\bin\Debug\net8.0\OOP-ontap.exe
+C:\anhthai\C#\OOP-ontap\bin\Debug\net8.0\OOP-ontap.deps.json
+C:\anhthai\C#\OOP-ontap\bin\Debug\net8.0\OOP-ontap.runtimeconfig.json
+C:\anhthai\C#\OOP-ontap\bin\Debug\net8.0\OOP-ontap.dll
+C:\anhthai\C#\OOP-ontap\bin\Debug\net8.0\OOP-ontap.pdb
+C:\anhthai\C#\OOP-ontap\obj\Debug\net8.0\OOP-ontap.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\OOP-ontap\obj\Debug\net8.0\OOP-ontap.AssemblyInfoInputs.cache
+C:\anhthai\C#\OOP-ontap\obj\Debug\net8.0\OOP-ontap.AssemblyInfo.cs
+C:\anhthai\C#\OOP-ontap\obj\Debug\net8.0\OOP-ontap.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\OOP-ontap\obj\Debug\net8.0\OOP-ontap.dll
+C:\anhthai\C#\OOP-ontap\obj\Debug\net8.0\refint\OOP-ontap.dll
+C:\anhthai\C#\OOP-ontap\obj\Debug\net8.0\OOP-ontap.pdb
+C:\anhthai\C#\OOP-ontap\obj\Debug\net8.0\OOP-ontap.genruntimeconfig.cache
+C:\anhthai\C#\OOP-ontap\obj\Debug\net8.0\ref\OOP-ontap.dll

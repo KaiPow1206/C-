@@ -1,0 +1,14 @@
+C:\anhthai\C#\luyenmang\bin\Debug\net8.0\luyenmang.exe
+C:\anhthai\C#\luyenmang\bin\Debug\net8.0\luyenmang.deps.json
+C:\anhthai\C#\luyenmang\bin\Debug\net8.0\luyenmang.runtimeconfig.json
+C:\anhthai\C#\luyenmang\bin\Debug\net8.0\luyenmang.dll
+C:\anhthai\C#\luyenmang\bin\Debug\net8.0\luyenmang.pdb
+C:\anhthai\C#\luyenmang\obj\Debug\net8.0\luyenmang.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\luyenmang\obj\Debug\net8.0\luyenmang.AssemblyInfoInputs.cache
+C:\anhthai\C#\luyenmang\obj\Debug\net8.0\luyenmang.AssemblyInfo.cs
+C:\anhthai\C#\luyenmang\obj\Debug\net8.0\luyenmang.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\luyenmang\obj\Debug\net8.0\luyenmang.dll
+C:\anhthai\C#\luyenmang\obj\Debug\net8.0\refint\luyenmang.dll
+C:\anhthai\C#\luyenmang\obj\Debug\net8.0\luyenmang.pdb
+C:\anhthai\C#\luyenmang\obj\Debug\net8.0\luyenmang.genruntimeconfig.cache
+C:\anhthai\C#\luyenmang\obj\Debug\net8.0\ref\luyenmang.dll

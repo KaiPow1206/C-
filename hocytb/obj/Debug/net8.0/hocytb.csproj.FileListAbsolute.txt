@@ -1,0 +1,14 @@
+C:\anhthai\C#\hocytb\bin\Debug\net8.0\hocytb.exe
+C:\anhthai\C#\hocytb\bin\Debug\net8.0\hocytb.deps.json
+C:\anhthai\C#\hocytb\bin\Debug\net8.0\hocytb.runtimeconfig.json
+C:\anhthai\C#\hocytb\bin\Debug\net8.0\hocytb.dll
+C:\anhthai\C#\hocytb\bin\Debug\net8.0\hocytb.pdb
+C:\anhthai\C#\hocytb\obj\Debug\net8.0\hocytb.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\hocytb\obj\Debug\net8.0\hocytb.AssemblyInfoInputs.cache
+C:\anhthai\C#\hocytb\obj\Debug\net8.0\hocytb.AssemblyInfo.cs
+C:\anhthai\C#\hocytb\obj\Debug\net8.0\hocytb.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\hocytb\obj\Debug\net8.0\hocytb.dll
+C:\anhthai\C#\hocytb\obj\Debug\net8.0\refint\hocytb.dll
+C:\anhthai\C#\hocytb\obj\Debug\net8.0\hocytb.pdb
+C:\anhthai\C#\hocytb\obj\Debug\net8.0\hocytb.genruntimeconfig.cache
+C:\anhthai\C#\hocytb\obj\Debug\net8.0\ref\hocytb.dll

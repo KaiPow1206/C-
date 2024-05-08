@@ -1,0 +1,14 @@
+C:\anhthai\C#\sotien\bin\Debug\net8.0\sotien.exe
+C:\anhthai\C#\sotien\bin\Debug\net8.0\sotien.deps.json
+C:\anhthai\C#\sotien\bin\Debug\net8.0\sotien.runtimeconfig.json
+C:\anhthai\C#\sotien\bin\Debug\net8.0\sotien.dll
+C:\anhthai\C#\sotien\bin\Debug\net8.0\sotien.pdb
+C:\anhthai\C#\sotien\obj\Debug\net8.0\sotien.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\sotien\obj\Debug\net8.0\sotien.AssemblyInfoInputs.cache
+C:\anhthai\C#\sotien\obj\Debug\net8.0\sotien.AssemblyInfo.cs
+C:\anhthai\C#\sotien\obj\Debug\net8.0\sotien.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\sotien\obj\Debug\net8.0\sotien.dll
+C:\anhthai\C#\sotien\obj\Debug\net8.0\refint\sotien.dll
+C:\anhthai\C#\sotien\obj\Debug\net8.0\sotien.pdb
+C:\anhthai\C#\sotien\obj\Debug\net8.0\sotien.genruntimeconfig.cache
+C:\anhthai\C#\sotien\obj\Debug\net8.0\ref\sotien.dll

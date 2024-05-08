@@ -1,0 +1,14 @@
+C:\anhthai\C#\changenumber\obj\Debug\net8.0\changenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\anhthai\C#\changenumber\obj\Debug\net8.0\changenumber.AssemblyInfoInputs.cache
+C:\anhthai\C#\changenumber\obj\Debug\net8.0\changenumber.AssemblyInfo.cs
+C:\anhthai\C#\changenumber\obj\Debug\net8.0\changenumber.csproj.CoreCompileInputs.cache
+C:\anhthai\C#\changenumber\bin\Debug\net8.0\changenumber.exe
+C:\anhthai\C#\changenumber\bin\Debug\net8.0\changenumber.deps.json
+C:\anhthai\C#\changenumber\bin\Debug\net8.0\changenumber.runtimeconfig.json
+C:\anhthai\C#\changenumber\bin\Debug\net8.0\changenumber.dll
+C:\anhthai\C#\changenumber\bin\Debug\net8.0\changenumber.pdb
+C:\anhthai\C#\changenumber\obj\Debug\net8.0\changenumber.dll
+C:\anhthai\C#\changenumber\obj\Debug\net8.0\refint\changenumber.dll
+C:\anhthai\C#\changenumber\obj\Debug\net8.0\changenumber.pdb
+C:\anhthai\C#\changenumber\obj\Debug\net8.0\changenumber.genruntimeconfig.cache
+C:\anhthai\C#\changenumber\obj\Debug\net8.0\ref\changenumber.dll
